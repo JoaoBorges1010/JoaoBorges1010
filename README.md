@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoborges1010&label=Profile%20views&color=0e75b6&style=flat" alt="joaoborges1010" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs**
+- 🌱 I’m currently learning **ReactNative, typescript**
 
-- 👨‍💻 All of my projects are available at [dailybites.me](dailybites.me)
+- 👨‍💻 All of my projects are available at [(https://borgeswebsite.vercel.app/)](https://borgeswebsite.vercel.app/)
 
-- 💬 Ask me about **Ruby, Ruby on rails**
+- 💬 Ask me about **Ruby, Ruby on rails, react, typescript**
 
 - 📫 How to reach me **joaoborgesbiz@gmail.com**
 
